@@ -1,0 +1,3 @@
+pip install playright
+playright install
+pip install time
