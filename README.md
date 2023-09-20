@@ -12,4 +12,6 @@ cd boot--do-instagram
 
 pip install -r requeriments.txt
 
+playwright install
+
 python3 insta_SCRITOS.py
