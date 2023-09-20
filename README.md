@@ -10,6 +10,6 @@ git clone https://github.com/lightL1/boot--do-instagram
 
 cd boot--do-instagram
 
-pip -m install requeriments.txt
+pip install -r requeriments.txt
 
 python3 insta_SCRITOS.py
